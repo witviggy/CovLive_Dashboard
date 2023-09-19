@@ -9,3 +9,5 @@ Data Visualization: Utilize Power BI to design interactive visualizations, inclu
 Interactivity: Implement slicers, filters, and drill-through functionality to allow users to customize their data view.
 
 This live dashboard project aims to provide a valuable resource for healthcare professionals, policymakers, and the general public by offering up-to-date insights into the COVID-19 situation in India.
+
+![Dashboard](https://github.com/witviggy/CovLive_Dashboard/assets/85077492/d64f2077-11fc-495d-94a8-cefb0031e20e)
